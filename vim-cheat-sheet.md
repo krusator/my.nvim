@@ -34,7 +34,9 @@
 `dw` - Wort ab Cursor löschen  
 `diw` - Wort auf Cursor löschen  
 `db` - Wort vor Cursor löschen  
-## Fenster 
+## Fenster
+`:nb` - Nächstes Fenster  
+`:pb` - Vorheriges Fenster
 `Ctrl-W-v`- Fenster vertikal splitten  
 `Ctrl-W-s` - Fenstern horizontal splitten  
 `Ctrl-W-→` - Nach rechts springen  
