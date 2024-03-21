@@ -27,8 +27,8 @@
 `h` - nach links  
 `j` - nach unten  
 `k` - nach oben  
-`l` - nach rechts
-`%` - to the matching closing or opening bracket or parenthesis
+`l` - nach rechts 
+`%` - to the matching closing or opening bracket or parenthesis 
 
 ## Yank
 `yiw` - yank aktuelles Wort  
