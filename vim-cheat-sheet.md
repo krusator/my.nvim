@@ -7,7 +7,9 @@
 `yy` - ganze Zeile kopieren/yank  
 `p` - aktuellen yank/delete einfügen  
 `A` - edit at the of the line  
-`I` - edit at the beginning if the line  
+`I` - edit at the beginning if the line
+`c` - change mode to - use like `ciw`: change inside hole word - means word is deleted and you can type new stuff
+
 ## Navigate in Files
 `0` - um Zeilenanfang  
 `$` - zum Zeilenende  
@@ -25,7 +27,9 @@
 `h` - nach links  
 `j` - nach unten  
 `k` - nach oben  
-`l` - nach rechts  
+`l` - nach rechts
+`%` - to the matching closing or opening bracket or parenthesis
+
 ## Yank
 `yiw` - yank aktuelles Wort  
 `"*yy` - yank and copy current line to clipboard  
