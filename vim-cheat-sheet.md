@@ -9,6 +9,8 @@
 `A` - edit at the of the line  
 `I` - edit at the beginning if the line
 `c` - change mode to - use like `ciw`: change inside hole word - means word is deleted and you can type new stuff
+`cit` - change between tags
+
 
 ## Navigate in Files
 `0` - um Zeilenanfang  
